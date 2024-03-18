@@ -1,0 +1,8 @@
+com\mycompany\adapter\Main.class
+com\mycompany\adapter\ChurroRelleno.class
+com\mycompany\adapter\Adapter.class
+com\mycompany\adapter\DeliciousFoodToFood.class
+com\mycompany\adapter\Churro.class
+com\mycompany\adapter\DeliciousFood.class
+com\mycompany\adapter\ChurrosFactory.class
+com\mycompany\adapter\Food.class
